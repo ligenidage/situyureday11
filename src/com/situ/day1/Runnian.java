@@ -41,6 +41,9 @@ public class Runnian {
 		} 
 	}
 	
-	
+	@Test
+	public void kiuting(){
+		
 	}
+	
 }
