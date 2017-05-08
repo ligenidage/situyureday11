@@ -60,6 +60,9 @@ public class HelloWorld {
 			}
 		}
 	}
+	public void yun(){
+		
+	}
 }
 
 

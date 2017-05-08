@@ -39,11 +39,5 @@ public class Runnian {
 		} else if(score < 60) {
 			System.out.println("不及格");
 		} 
-	}
-	
-	@Test
-	public void kiuting(){
-		
-	}
-	
+	}	
 }
