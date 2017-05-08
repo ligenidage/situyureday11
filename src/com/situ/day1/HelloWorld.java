@@ -61,7 +61,7 @@ public class HelloWorld {
 		}
 	}
 	public void yun(){
-		
+		System.out.println("nishibendna");
 	}
 }
 
